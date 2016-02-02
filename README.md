@@ -15,15 +15,15 @@ According to some data such as SAT scores, ACT scores and the salary level the g
 
 The rates of every cluster are based on a formula we created.
 
-<p style="text-align:center">![Formula 1](http://ww3.sinaimg.cn/large/7287333fgw1f0kq9setdvj208c01mdfp.jpg)
+<p style="text-align:center">![Formula 1](http://ww3.sinaimg.cn/large/7287333fgw1f0kq9setdvj208c01mdfp.jpg)</p>
 
 - ***score<sub>max</sub>*** and ***score<sub>min</sub>*** is the maximal score and the minimal score of the 5 cluster centers. 
 
-<p style="text-align:center">![Formula 2](http://ww4.sinaimg.cn/large/7287333fgw1f0kqba0w6oj208c01pglh.jpg)
+<p style="text-align:center">![Formula 2](http://ww4.sinaimg.cn/large/7287333fgw1f0kqba0w6oj208c01pglh.jpg)</p>
 
 - ***i*** is the sorted index of the clusters, like 1, 2, 3.
 
-<p style="text-align:center">![Formula 3](http://ww4.sinaimg.cn/large/7287333fgw1f0kqcsl6nzj204a01m743.jpg)
+<p style="text-align:center">![Formula 3](http://ww4.sinaimg.cn/large/7287333fgw1f0kqcsl6nzj204a01m743.jpg)</p>
 
 - ***r<sub>i</sub>*** is the ***i<sup>th</sup>*** cluster’s rate of investment.
 
